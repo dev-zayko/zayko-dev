@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Pablo Rodríguez. I am currently 27 years old and I am looking for a job as a developer. I am a responsible, proactive, self-taught person. I like to learn new things, drink coffee, read, program Front and Back.
+My name is Pablo Rodríguez. I am currently 27 years old. I am a responsible, proactive, self-taught person. I like to learn new things, drink coffee, read, program Front and Back.
 
 
 # 💻 Tech Stack:
